@@ -14,4 +14,4 @@
 
 为了用户安全，采用HTTPS加密并推荐配合VPN访问，确保隐私保护。无须注册，点击即看，操作便捷，观影体验极佳。期待您的关注与收藏。
 
-<span style="display:none;">[Canonical link]( https://github.com/ribenyi1021/937283 ）</span>
+<span style="display:none;">[Canonical link]( https://github.com/riben54550/937283 ）</span>
